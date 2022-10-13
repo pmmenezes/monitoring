@@ -2,7 +2,7 @@
 
 ## Instalação do Prometheus Server usando Binário
 
-### Atualizar o  repositóio de pacotes e atualizar o sistema
+### Atualizar o  repositório de pacotes e atualizar o sistema
 
 ```bash
 sudo apt update && sudo apt upgrade -y
